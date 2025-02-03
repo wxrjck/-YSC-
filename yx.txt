@@ -8,32 +8,32 @@
             "url": "http://肥猫.com/",
             "name": "🚀无邪┃肥猫线路"
         },  
-       {
+        {
             "url": "http://我不是.摸鱼儿.com",
             "name": "🚀无邪┃摸鱼线路"
         }, 
         {
-            "url": "http://ok321.top/ok",
-            "name": "🚀无邪┃OK线路"
+            "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "name": "🚀无邪┃宝盒线路"
         }, 
         {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀无邪┃王二小线路"
-        },  
+        }, 
         {
-            "url": "http://饭太硬.com/tv",
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "name": "🚀无邪┃短剧专线"
+        },     
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "🚀无邪┃儿童专线"
+        },   
+        {
+            "url": "http://fty.888484.xyz/tv",
             "name": "🚀无邪┃饭太硬备用"
         },             
         {
-            "url": "https://like.肥猫.com/PandaQ",
-            "name": "🚀无邪┃肥猫备用"
-        },  
-        {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "🚀无邪┃摸鱼备用"
-        },  
-        {
-            "url": "https://9280.kstore.space/wex.json",
+            "url": "https://d.kstore.dev/download/9280/wex.json",
             "name": "🚀无邪┃王二小备用"
         }
     ]
