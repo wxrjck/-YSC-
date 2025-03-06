@@ -41,7 +41,7 @@
             "name": "💎无邪┃俊佬线路"
         },    
          {
-            "url": "https://100km.top/0",
+            "url": "https://dxawi.github.io/0/0.json",
             "name": "💎无邪┃Ray明线路"
         },       
         {
