@@ -7,11 +7,7 @@
         {
             "url": "http://肥猫.com/",
             "name": "💎无邪┃肥猫线路"
-        },    
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "💎无邪┃摸鱼线路"
-        },   
+        },      
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
             "name": "💎无邪┃多多线路"
