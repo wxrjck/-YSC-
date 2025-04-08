@@ -51,11 +51,7 @@
         {
             "url": "https://fmbox.cc",
             "name": "💎无邪┃星辰线路"
-        },      
-        {
-            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "💎无邪┃业余打发线路"
-        },       
+        },          
         {
             "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name": "💎无邪┃月光宝盒线路"
