@@ -31,7 +31,11 @@
         {
             "url": "http://fty.888484.xyz/tv",
             "name": "🚀无邪┃饭太硬备用"
-        },             
+        }, 
+        {
+            "url": "https://6296.kstore.vip/facat.json",
+            "name": "🚀无邪┃肥猫备用"
+        },              
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
             "name": "🚀无邪┃王二小备用"
