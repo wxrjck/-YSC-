@@ -49,7 +49,7 @@
             "name": "💎无邪┃月光宝盒线路"
         },           
         {
-            "url": "http://meowtv.top/tv",
+            "url": "http://www.meowtv.vip/tvbox.json",
             "name": "💎无邪┃喵影视线路"
         },     
         {
