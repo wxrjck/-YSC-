@@ -39,6 +39,10 @@
         {
             "url": "https://6296.kstore.vip/facat.json",
             "name": "🚀无邪┃肥猫备用"
+        },   
+        {
+            "url": "http://我不是.摸鱼儿.xyz",
+            "name": "🚀无邪┃摸鱼备用"
         },              
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
