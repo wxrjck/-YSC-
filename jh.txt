@@ -53,8 +53,8 @@
             "name": "💎无邪┃喵影视线路"
         },     
         {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-            "name": "💎无邪┃不良帅线路"
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "💎无邪┃小米线路"
         },         
         {
             "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
@@ -69,9 +69,13 @@
             "name": "💎无邪┃毒盒线路"
         },  
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "💎无邪┃潇洒线路"
-        },     
+        },  
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "name": "💎无邪┃分享者线路"
+        },    
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "💎无邪┃高天流云线路"
