@@ -31,10 +31,6 @@
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "💎无邪┃儿童专线"
-        },  
-        {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "💎无邪┃道长线路"
         },        
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -47,15 +43,7 @@
         {
             "url": "http://www.meowtv.vip/tvbox.json",
             "name": "💎无邪┃喵影视线路"
-        },     
-        {
-            "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "💎无邪┃小米线路"
-        },         
-        {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "💎无邪┃青龙线路"
-        },                   
+        },                         
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "💎无邪┃巧计线路"
