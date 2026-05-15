@@ -31,11 +31,7 @@
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "💎无邪┃老刘备线路"
-        },          
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "💎无邪┃潇洒线路"
-        },  
+        },      
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json",
             "name": "💎无邪┃分享者线路"
