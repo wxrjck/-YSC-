@@ -31,19 +31,7 @@
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "💎无邪┃老刘备线路"
-        },           
-        {
-            "url": "http://www.meowtv.vip/tvbox.json",
-            "name": "💎无邪┃喵影视线路"
-        },                         
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "💎无邪┃巧计线路"
-        },
-        {
-            "url": "https://毒盒.com/tv",
-            "name": "💎无邪┃毒盒线路"
-        },  
+        },          
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "💎无邪┃潇洒线路"
