@@ -29,7 +29,7 @@
             "name": "🚀无邪┃饭太硬备用"
         }, 
         {
-            "url": "http://hello.肥猫.com/",
+            "url": "http://hello.肥猫.net",
             "name": "🚀无邪┃肥猫备用"
         },   
         {
