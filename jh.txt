@@ -29,7 +29,7 @@
             "name": "💎无邪┃俊佬线路"
         },                            
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "💎无邪┃老刘备线路"
         },      
         {
