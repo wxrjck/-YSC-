@@ -37,7 +37,7 @@
             "name": "🚀无邪┃摸鱼备用"
         },              
         {
-            "url": "https://d.kstore.dev/download/9280/wex.json",
+            "url": "https://9280.kstore.vip/newwex.json",
             "name": "🚀无邪┃王二小备用"
         }
     ]
