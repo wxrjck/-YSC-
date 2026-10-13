@@ -33,8 +33,8 @@
             "name": "🚀无邪┃肥猫备用（失效）"
         },   
         {
-            "url": "http://www.小不点.com",
-            "name": "🚀无邪┃摸鱼备用（失效）"
+            "url": "http://fish.y456y.com",
+            "name": "🚀无邪┃摸鱼备用"
         },              
         {
             "url": "https://9280.kstore.vip/newwex.json",
